@@ -11,7 +11,7 @@ const Skill = () => {
                     <div className="bars">
                         <div className="info">
                             <span>C / C++</span>
-                            <span>100%</span>
+                            <span>95%</span>
                         </div>
                         <div className="line c"></div>
                     </div>
@@ -25,14 +25,14 @@ const Skill = () => {
                     <div className="bars">
                         <div className="info">
                             <span>HTML</span>
-                            <span>95%</span>
+                            <span>85%</span>
                         </div>
                         <div className="line html"></div>
                     </div>
                     <div className="bars">
                         <div className="info">
                             <span>CSS</span>
-                            <span>95%</span>
+                            <span>75%</span>
                         </div>
                         <div className="line css"></div>
                     </div>
@@ -46,28 +46,28 @@ const Skill = () => {
                     <div className="bars">
                         <div className="info">
                             <span>Nodejs</span>
-                            <span>50%</span>
+                            <span>80%</span>
                         </div>
                         <div className="line nodejs"></div>
                     </div>
                     <div className="bars">
                         <div className="info">
                             <span>Reactjs</span>
-                            <span>70%</span>
+                            <span>85%</span>
                         </div>
                         <div className="line reactjs"></div>
                     </div>
                     <div className="bars">
                         <div className="info">
                             <span>MongoDB</span>
-                            <span>50%</span>
+                            <span>70%</span>
                         </div>
                         <div className="line mongodb"></div>
                     </div>
                     <div className="bars">
                         <div className="info">
-                            <span>EXPRESSjs</span>
-                            <span>50%</span>
+                            <span>Expressjs</span>
+                            <span>80%</span>
                         </div>
                         <div className="line php"></div>
                     </div>

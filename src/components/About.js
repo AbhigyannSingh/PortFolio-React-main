@@ -12,8 +12,9 @@ const About = () => {
                     <img src={Image1} alt="meraface"/>
                 </div>
                 <div className="column right">
-                <div className="text">I'm Abhigyan Pratap Singh </div>
+                <div className="text">I'm Abhigyan Pratap Singh</div>
                     <p>I'm currently pursuing my MCA at National Institute of Technology, Raipur.</p>
+                    <p>I completed my B.Sc. (Hons) in Computer Science from Bhaskaracharya College of Applied Sciences, Delhi University.</p>
                     <p>I love programming and solving problems. Check me out on <a href="https://leetcode.com/u/AbhigyanSingh789/" target='blank'>Leetcode</a>, and <a href="https://www.naukri.com/code360/profile/b4f63225-c935-44c2-a9d1-c745266e1404" target="blank">Coding Ninjas</a>.</p>
                     <p>My other interests are Web Development and Cooking.</p>
                     <p>My core interest lies mainly in web development but is not restricted to it. I always love exploring and learning new technologies.</p>
